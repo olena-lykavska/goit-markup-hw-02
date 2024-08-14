@@ -1,6 +1,7 @@
 body{
     font-family: "Roboto", sans-serif;
-    color: #2e2f42;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 
 ul{
@@ -124,7 +125,12 @@ button:focus{
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize
 }
+.team-list{
+background-color: #FFFFFF;
+}
+
 
 .team-subtitle{
     font-weight: 500;
@@ -149,6 +155,7 @@ button:focus{
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize
 }
 
 .portfolio-subtitle{
@@ -166,7 +173,7 @@ button:focus{
 }
 /* ==================================== */
 /* ==================FOOTER================== */
-footer{
+.footer{
     background-color:#2e2f42;;
 }
 
